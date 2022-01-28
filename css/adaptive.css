@@ -1,0 +1,336 @@
+    @media screen and (max-width:992px){
+    .CRYPTO-BABE img{
+        max-width: 540px;
+        max-height: 540px;
+    }
+    .main-conteiner{
+        max-width:550px;
+        max-height: 90px;
+    }
+    .img-mini{
+        max-width: 230px;
+        max-height: 200px;
+    }
+    .nav-conteiner-link {
+        display: flex;
+        margin-left: 100px;
+        margin-top: 50px;
+        justify-content: center;
+    }
+    .nav-conteiner-link a {
+        padding: 15px;
+        font-weight: 400;
+        letter-spacing: 3px;
+        font-size: 15px;
+        text-decoration: none;
+        color: #fff;
+        transition-duration: 0.5s;
+    }
+    .WHITE-FANG img{
+        max-width: 540px;
+        max-height: 540px;
+    }
+    .main-conteiner{
+        max-width:550px;
+        max-height: 90px;
+    }
+    .img-mini{
+        max-width: 230px;
+        max-height: 200px;
+    }
+    .nav-conteiner-link {
+    display: flex;
+    margin-left: 100px;
+    margin-top: 50px;
+    justify-content: center;
+    }
+    .nav-conteiner-link a {
+    padding: 15px;
+    font-weight: 400;
+    letter-spacing: 3px;
+    font-size: 15px;
+    text-decoration: none;
+    color: #fff;
+    transition-duration: 0.5s;
+    }
+    .JOHN-LEMON img{
+        max-width: 540px;
+        max-height: 540px;
+    }
+    .main-conteiner{
+        max-width:550px;
+        max-height: 90px;
+    }
+    .img-mini{
+        max-width: 230px;
+        max-height: 200px;
+    }
+    .nav-conteiner-link {
+    display: flex;
+    margin-left: 100px;
+    margin-top: 50px;
+    justify-content: center;
+    }
+    .nav-conteiner-link a {
+    padding: 15px;
+    font-weight: 400;
+    letter-spacing: 3px;
+    font-size: 15px;
+    text-decoration: none;
+    color: #fff;
+    transition-duration: 0.5s;
+    }
+    .JIMMY-CHEW img{
+        max-width: 540px;
+        max-height: 540px;
+    }
+    .main-conteiner{
+        max-width:550px;
+        max-height: 90px;
+    }
+    .img-mini{
+        max-width: 230px;
+        max-height: 200px;
+    }
+    .nav-conteiner-link {
+    display: flex;
+    margin-left: 100px;
+    margin-top: 50px;
+    justify-content: center;
+    }
+    .nav-conteiner-link a {
+    padding: 15px;
+    font-weight: 400;
+    letter-spacing: 3px;
+    font-size: 15px;
+    text-decoration: none;
+    color: #fff;
+    transition-duration: 0.5s;
+    }
+    .div-video-content{
+        max-width: 692px;
+        max-height: 5570px;
+    }
+    }   
+    @media screen and (max-width:576px){
+        .CRYPTO-BABE img{
+            max-width: 240px;
+            max-height: 240px;
+        }
+        .main-conteiner{
+            max-width:10px;
+            max-height: 50px;
+        }
+        .img-mini{
+            max-width: 90px;
+            max-height: 80px;
+        }
+        .nav-conteiner-link {
+        display: flex;
+        margin-left: 90px;
+        margin-top: 50px;
+        justify-content: center;
+    }
+    .nav-conteiner-link a {
+        padding: 10px;
+        font-weight: 300;
+        letter-spacing: 3px;
+        font-size: 10px;
+        text-decoration: none;
+        color: #fff;
+        transition-duration: 0.5s;
+    }
+    
+    .WHITE-FANG img{
+        max-width: 240px;
+        max-height: 240px;
+    }
+    .main-conteiner{
+        max-width:150px;
+        max-height: 50px;
+    }
+    .img-mini{
+        max-width: 90px;
+        max-height: 80px;
+    }
+    .nav-conteiner-link {
+    display: flex;
+    margin-left: 90px;
+    margin-top: 50px;
+    justify-content: center;
+    }
+    .nav-conteiner-link a {
+    padding: 10px;
+    font-weight: 300;
+    letter-spacing: 3px;
+    font-size: 10px;
+    text-decoration: none;
+    color: #fff;
+    transition-duration: 0.5s;
+    }
+    .JOHN-LEMON img{
+    max-width: 240px;
+    max-height: 240px;
+    }
+    .main-conteiner{
+    max-width:150px;
+    max-height: 50px;
+    }
+    .img-mini{
+    max-width: 90px;
+    max-height: 80px;
+    }
+    .nav-conteiner-link {
+    display: flex;
+    margin-left: 90px;
+    margin-top: 50px;
+    justify-content: center;
+    }
+    .nav-conteiner-link a {
+    padding: 10px;
+    font-weight: 300;
+    letter-spacing: 3px;
+    font-size: 10px;
+    text-decoration: none;
+    color: #fff;
+    transition-duration: 0.5s;
+    }
+    .JIMMY-CHEW img{
+    max-width: 240px;
+    max-height: 240px;
+    }
+    .main-conteiner{
+    max-width:150px;
+    max-height: 50px;
+    }
+    .img-mini{
+    max-width: 90px;
+    max-height: 80px;
+    }
+    .nav-conteiner-link {
+    display: flex;
+    margin-left: 90px;
+    margin-top: 50px;
+    justify-content: center;
+    }
+    .nav-conteiner-link a {
+    padding: 10px;
+    font-weight: 300;
+    letter-spacing: 3px;
+    font-size: 10px;
+    text-decoration: none;
+    color: #fff;
+    transition-duration: 0.5s;
+    }
+    }
+    @media screen and (max-width: 768px){
+        .CRYPTO-BABE img{
+            max-width: 240px;
+            max-height: 240px;
+        }
+        .main-conteiner{
+            max-width:50px;
+            max-height: 50px;
+        }
+        .img-mini{
+            max-width: 90px;
+            max-height: 80px;
+        }
+        .nav-conteiner-link {
+        display: flex;
+        margin-left: 90px;
+        margin-top: 50px;
+        justify-content: center;
+    }
+    .nav-conteiner-link a {
+        padding: 10px;
+        font-weight: 300;
+        letter-spacing: 3px;
+        font-size: 10px;
+        text-decoration: none;
+        color: #fff;
+        transition-duration: 0.5s;
+    }
+    
+    .WHITE-FANG img{
+        max-width: 140px;
+        max-height: 140px;
+    }
+    .main-conteiner{
+        max-width:150px;
+        max-height: 50px;
+    }
+    .img-mini{
+        max-width: 90px;
+        max-height: 80px;
+    }
+    .nav-conteiner-link {
+    display: flex;
+    margin-left: 90px;
+    margin-top: 50px;
+    justify-content: center;
+    }
+    .nav-conteiner-link a {
+    padding: 10px;
+    font-weight: 300;
+    letter-spacing: 3px;
+    font-size: 10px;
+    text-decoration: none;
+    color: #fff;
+    transition-duration: 0.5s;
+    }
+    .JOHN-LEMON img{
+    max-width: 140px;
+    max-height: 140px;
+    }
+    .main-conteiner{
+    max-width:50px;
+    max-height: 50px;
+    }
+    .img-mini{
+    max-width: 90px;
+    max-height: 80px;
+    }
+    .nav-conteiner-link {
+    display: flex;
+    margin-left: 90px;
+    margin-top: 50px;
+    justify-content: center;
+    }
+    .nav-conteiner-link a {
+    padding: 10px;
+    font-weight: 300;
+    letter-spacing: 3px;
+    font-size: 10px;
+    text-decoration: none;
+    color: #fff;
+    transition-duration: 0.5s;
+    }
+    .JIMMY-CHEW img{
+    max-width: 140px;
+    max-height: 140px;
+    }
+    .main-conteiner{
+    max-width:150px;
+    max-height: 50px;
+    }
+    .img-mini{
+    max-width: 90px;
+    max-height: 80px;
+    }
+    .nav-conteiner-link {
+    display: flex;
+    margin-left: 90px;
+    margin-top: 50px;
+    justify-content: center;
+    }
+    .nav-conteiner-link a {
+    padding: 10px;
+    font-weight: 300;
+    letter-spacing: 3px;
+    font-size: 10px;
+    text-decoration: none;
+    color: #fff;
+    transition-duration: 0.5s;
+    } 
+}

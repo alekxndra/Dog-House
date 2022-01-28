@@ -1,0 +1,456 @@
+body {
+    margin: 0px;
+    background-color: #050404;
+    font-family: "Karantina";
+}
+a {
+    color: #fff;
+    text-decoration: none;
+}
+.main-conteiner {
+    display: flex;
+    justify-content: center;
+}
+.main-conteiner {
+    margin-top: 30px;
+}
+.logo-image-link a img {
+    background-repeat: no-repeat;
+    width: 100px;
+    height: 105px;
+}
+.nav-conteiner-link {
+    display: flex;
+    margin-left: 200px;
+    margin-top: 60px;
+    justify-content: center;
+    margin-left: 40px;
+}
+.nav-conteiner-link a {
+    padding: 20px;
+    font-weight: 400;
+    letter-spacing: 3px;
+    font-size: 25px;
+    
+    color: #fff;
+    transition-duration: 0.5s;
+
+}
+.nav-conteiner-link a:hover {
+    color: rgb(255, 122, 14);
+}
+
+.button-connect-wallet  {
+    color: #fff;
+    font-size: 25px;
+    letter-spacing: 3px;
+    margin-top: 45px;
+    margin-left: 50px;
+    border: 2px solid rgb(224, 123, 40);
+    border-radius: 50px;
+    padding: 30px 20px;
+    transition-duration: 0.5s;
+}
+.button-connect-wallet:hover {
+    background-color: rgb(224, 123, 40);
+    color: #fff;
+}
+.flex-conteiner-video {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+.div-video-content iframe{
+   width: 1210px;
+   height: 450px;
+}
+
+.title-welcome, .title-roadmap, .title-RANKING-TOOL, .title-METAVERSE, .title-FAQ, .title-TEAM-MEMBERS {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin-top: 50px;
+}
+.word-conteiner, .leter-Paraghraf {
+    font-size: 60px;
+    font-weight: 400;
+    font-family: "Oswald";
+}
+.word-conteiner {
+    margin-right: 25px; 
+    color: rgb(255, 123, 0);
+}
+.leter-Paraghraf {
+    color: rgb(255, 187, 0);
+}
+.first-info-box, .second-info-box {
+    display: flex;
+    justify-content: center;
+}
+.second-info-box {
+    margin-top: 100px;
+}
+.text-button-box-information, .text-button-box-information-2 {
+    margin-top: 50px;
+    
+}
+.text-button-box-information {
+    margin-left: 250px;
+}
+.text-box{
+    position: relative;
+    top: 0px;   
+    left: -210px;
+    max-width: 793px;
+    color: #fff;
+    font-family: "Oswald";
+    font-weight: 400;
+    font-size: 20px;
+    letter-spacing: 2px;
+}
+.twoButton-box {
+    position: relative;
+    top: 0px;
+    left: -210px;
+    margin-top: 35px;
+    font-family: "Oswald";
+    display: flex;
+    
+}
+.button-1, .button-OPEN {
+    margin-right: 35px;
+}
+.button-1, .button-2, .button-OPEN, .button-VIEW, .button-RANKING-TOOL {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: 1px solid rgb(255, 123, 0);
+    border-radius: 50px;
+}
+.button-1  {
+    padding-left: 25px;
+    padding-right: 25px;
+    background-color: rgb(255, 123, 0);
+    
+}
+.button-2 {
+    padding-left: 50px;
+    padding-right: 50px;
+    transition-duration: 0.3s;
+}
+.button-OPEN, .button-RANKING-TOOL {
+    padding-left: 40px;
+    padding-right: 40px;
+    background-color: rgb(255, 123, 0);
+}
+.button-VIEW {
+    padding-left: 30px;
+    padding-right: 30px;
+    transition-duration: 0.3s;
+}
+.button-2:hover, .button-VIEW:hover{
+    border-color: #fff
+}
+.button-2 a, .button-1 a, .button-OPEN a, .button-VIEW a, .button-RANKING-TOOL a {
+    color: #fff;
+    font-family: "Oswald";
+    font-size: 15px;
+    transition-duration: 0.3s;
+}
+
+.image-iformation-1{
+    width: 262px;
+    height: 262px;
+    border-radius: 50%;
+    margin-top: 35px;
+    border: 2px solid #fff;
+    animation: movImg 2s infinite;
+}
+/* .slider-item img {
+    animation: movImg 2s infinite;
+} */
+@keyframes movImg {
+    0% {
+        transform: translate(0px, 0px);
+    }
+    50% {
+        transform: translate(0px, -20px);
+    }
+    
+    
+}
+.slider-track {
+    display: flex;
+}  
+.slider-track img {
+    width: 262px;
+    height: 262px;
+    border-radius: 50%;
+}
+.main-div-ROADMAP {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.title-roadmap{
+    margin-top: 100px;
+} 
+.text-information-roadmap, .text-box-RANKING-TOOL, .text-information-METAVERSE-1, .text-information-METAVERSE-2, .text-box-TEAM-MEMBERS {
+    margin-top: 40px;
+    font-family: "Oswald";
+    font-size: 20px;
+    color: #fff;
+    max-width: 1150px;
+} 
+.step-roadmap {
+    margin-top: 70px;
+    display: flex;
+    
+}
+.indicators-roadmap {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+    width: 80px;
+    height: 80px;
+    border-radius: 50px;
+    background-color: rgb(255, 123, 0);
+    color: rgb(34, 65, 6);
+    font-size: 30px;
+    margin-right: 50px;
+}
+.indicators-block-roadmap img {
+    margin-left: 35px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.indicators-roadmap-2 {
+    background-color: rgb(255, 123, 0);
+    width: 80px;
+    height: 80px;
+    border-radius: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.indicators-roadmap-2 img {
+    padding-right: 30px; 
+}
+.block-steps, .block-steps-2 {
+    max-width: 1000px;
+    color: #fff;
+    font-family: "Oswald";
+    font-size: 20px;
+}
+.block-steps {
+    margin-bottom: 50px;
+    padding-bottom: 40px;
+    border-bottom: 1px solid #fff ;
+}
+.main-information-content {
+    display: flex;
+    justify-content: center;
+}
+.div-RANKING-TOOL, .div-METAVERSE {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center; 
+} 
+.text-box-RANKING-TOOL {
+   margin-top: 0px; 
+}
+.button-RANKING-TOOL {
+    max-width: 200px;
+    margin-left: 350px;
+}
+
+.button-RANKING-TOOL:hover {
+    min-width: 200px;
+    background-color: rgb(134, 99, 1);
+}
+.title-METAVERSE {
+    position: relative;
+    top: 0px;
+    left: 15px; 
+}
+.plenty-conteiner-3d-block {
+    display: flex;
+    justify-content: center;
+    margin-top: 35px;
+    margin-bottom: 50px;
+}
+.volume-model video{
+    width: 590px;
+    height: 590px;
+    margin-left: 35px;
+}
+.text-information-METAVERSE-1, .text-information-METAVERSE-2 {
+    margin-top: 0px;
+    
+}
+.text-information-METAVERSE-1 {
+    max-width: 600px;
+    font-size: 20px;
+    margin-left: 10px;
+}
+.text-information-METAVERSE-2 {
+    font-size: 20px;
+    max-width: 600px;
+    margin-left: 30px;
+}
+
+.title-and-cross-first, 
+.title-and-cross {
+    display: flex;
+    justify-content:space-evenly;
+    font-family: 'Oswald';
+    font-size: 30px;
+    transition-duration: 0.4s;
+    border-radius: 10px;
+}
+.title-and-cross {
+    margin-top: 20px;
+}
+.title-and-cross-1 {
+    margin-top: 80px;
+}
+.texnical-conteiner {
+    display: flex;
+    justify-content: center;
+}
+/* .title-questions1, 
+.title-questions2,
+.title-questions3,
+.title-questions4,
+.title-questions5,    
+.cross-questions1,
+.cross-questions2,
+.cross-questions3,
+.cross-questions4,
+.cross-questions5 {
+    color:#fff ;
+}
+.title-questions1, 
+.title-questions2,
+.title-questions3,
+.title-questions4,
+.title-questions5 {
+    margin-right: 400px;
+} */
+/* .title-and-cross-first:hover,
+.title-and-cross:hover {
+    background-color: rgb(39, 38, 38);
+    transform: scale(1.03);  
+    color: rgb(255, 123, 0);
+    cursor: pointer;
+} */
+.cross-questions:hover {
+    color: rgb(255, 123, 0);
+}
+.answer-1, .answer-2, .answer-3, .answer-4, .answer-5  {
+    margin-top: 15px;
+    max-width: 700px;
+    font-family: "Oswald";
+    font-size: 20px;
+    color: rgb(255, 123, 0);
+    text-align: center;
+} 
+.main-content-TEAM-MEMBERS {
+    display: flex; 
+    justify-content: center;
+}
+.text-box-TEAM-MEMBERS {
+    text-align: center;
+
+}
+
+.block-team-1, .block-team-2, .block-team-3, .block-team-4 {
+    display: flex;
+    padding: 20px;
+    border: 1px solid rgb(254, 255, 226);
+    border-radius: 20px;
+    margin-right: 20px;
+    margin-bottom: 50px; 
+    min-width: 800px;
+}
+.info-member-item{
+    border: 1px solid rgb(254, 255, 226);
+    border-radius: 20px;
+    width: 600px;
+    text-align: center;
+}
+.image-member img {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+}
+.block-team-2 .link-twiter {
+    margin-left: 40px;
+}
+.link-twiter img {
+    width: 50px;
+    height: 50px;
+}
+.link-twiter:hover {
+    border-color:#fff ;
+}
+.name-member {
+    font-family: "Oswald";
+    color: rgb(255, 138, 4);
+    font-size: 18px;
+    letter-spacing: 2px;
+    margin-left: 20px;
+}
+.uniqueness-members {
+    margin-top: 5px;
+    margin-left: 20px;
+    margin-right: 50px;
+    font-family: "Oswald";
+    font-size: 16px;
+    color: #fff;   
+}
+.block-team-3, .uniqueness-members {
+    max-width: 530px;  
+}
+footer {
+    margin-bottom: 40px;
+}
+.main-footer-content {
+    display: flex;
+    justify-content: center;
+    
+}
+.info-DOGE-POUND {
+    color: #fff;
+    font-size: 20px;
+}
+.link-footer a{
+    text-decoration: none;
+    color: rgb(255, 138, 4);
+    font-family: "Oswald";
+}
+
+.hidden {
+    display: none!important;
+}
+.main-img{
+    display: flex;
+    justify-content: center;
+}
+.img-mini img{
+    width: 200px;
+    border-radius: 50px; 
+}
+.WHITE-FANG img, .JIMMY-CHEW img, .JOHN-LEMON img, .CRYPTO-BABE img{
+    border-radius: 50%;
+}
+.text-information {
+    display: flex;
+    justify-content: center;
+}
+
+
